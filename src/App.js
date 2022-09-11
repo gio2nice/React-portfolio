@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+// import './App.css';
+import PortfolioCon from "./components/PortfolioCon"
 
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
-}
+const App = () => 
+<PortfolioCon />;
+
 
 export default App;
