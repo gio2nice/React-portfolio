@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "ShelfSpace",
+        "image": "https://github.com/thegabe101/Lindsay-Noah-Gabe-Rojas-Project-2/blob/dev/screenshots/screenshot3.jpg",
+        "github": "https://github.com/thegabe101/Lindsay-Noah-Gabe-Rojas-Project-2",
+        "applink": "https://shelf-space.herokuapp.com/",
+        "description": "A full stack application for users to log in and upload gear for other outdoor enthusiasts to borrow, or to browse gear other users have posted to borrow for their own adventures."
+    },
+    {
+        "id": 2,
+        "name": "README Generator",
+        "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/07094701/shutterstock_1872947134-1.jpg",
+        "github": "https://github.com/gio2nice/readme-generator",
+        "applink": "https://github.com/gio2nice/readme-generator",
+        "description": "A handy application for generating basic README files for your projects."
+    },
+    {
+        "id": 3,
+        "name": "ESPNT",
+        "image": "https://github.com/jlee12297/ESPNT/blob/main/images/lebron.jpg?raw=true",
+        "github": "https://github.com/jlee12297/ESPNT",
+        "applink": "https://jlee12297.github.io/ESPNT/",
+        "description": "A rough intro level application utilizing a free sports API to pull stats for your favorite NBA players, and MMA fighters as well (in development)."
+    }
+]
