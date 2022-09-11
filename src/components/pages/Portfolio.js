@@ -40,6 +40,12 @@ export default function Portfolio() {
             {portfolio.map((project) => (
                 <Card
                 name={project.name}
+                id={project.id}
+                image={project.image}
+                github={project.github}
+                applink={project.applink}
+                description={project.description}
+                />
             ))}
         </Container>
         </>
