@@ -12,7 +12,7 @@
 
 ## Links
 
-Git clone this repository and npm i then npm start. Or follow this heroku link: 
+Git clone this repository and npm i then npm start. Or follow this heroku link: https://gios-portfolio.herokuapp.com/#about-me 
 
 ## Summary
 
