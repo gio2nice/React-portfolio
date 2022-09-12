@@ -3,7 +3,7 @@ import portfolio from '../assests/portfolio.json'
 
 function Card(props) {
     return (
-        <div className='card'>
+        <div className='card' class="p-3 mb-2 bg-dark text-white" >
             <div className='img-container'>
                 <img alt={props.name} src={props.image}/>
             </div>
@@ -16,10 +16,10 @@ function Card(props) {
                         <p className='project-description'>{props.description}</p>
                     </li>
                     <li>
-                        <a href={props.github} target="_blank">Github Link</a>
+                        <a href={props.github} target="">Github Link</a>
                     </li>
                     <li>
-                        <a href={props.applink} target="_blank">Deployed App Link</a>
+                        <a href={props.applink} target="">Deployed App Link</a>
                     </li>
                 </ul>
             </div>

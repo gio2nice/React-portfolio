@@ -2,7 +2,7 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
     return (
-        <ul className='nav nav-tabs'>
+        <ul class="p-3 mb-2 bg-dark text-white" className='nav nav-tabs'>
             <li className='nav-item'>
                 <a 
                 href="#home"

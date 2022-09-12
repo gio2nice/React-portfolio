@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Resume() {
     return (
-        <div>
+        <div class="p-3 mb-2 bg-dark text-white" >
             <h1>Resume</h1>
             <p>
                 Coding Technologies and skills I've worked on so far:

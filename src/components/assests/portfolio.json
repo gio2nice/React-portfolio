@@ -2,10 +2,10 @@
     {
         "id": 1,
         "name": "ShelfSpace",
-        "image": "https://github.com/thegabe101/Lindsay-Noah-Gabe-Rojas-Project-2/blob/dev/screenshots/screenshot3.jpg",
+        "image": "https://github.com/thegabe101/Lindsay-Noah-Gabe-Rojas-Project-2/blob/dev/screenshots/screenshot3.jpg?w=50%&l=50%",
         "github": "https://github.com/thegabe101/Lindsay-Noah-Gabe-Rojas-Project-2",
         "applink": "https://shelf-space.herokuapp.com/",
-        "description": "A full stack application for users to log in and upload gear for other outdoor enthusiasts to borrow, or to browse gear other users have posted to borrow for their own adventures."
+        "description": "A full stack application for users to log in and find books then save their books into a shelfspace so user can go back to them later."
     },
     {
         "id": 2,
