@@ -19,7 +19,7 @@ Git clone this repository and npm i then npm start. Or follow this heroku link: 
 * This is a rough draft of my react portfolio. I am still working on styling the page so this repo will be getting updated the more I get better with styling in React. 
 
 ## Authors 
-Robertson Rojas
+Robertson Rojas & worked through this project with Santana Fernandez
 
 ## Acknowledgements
 
